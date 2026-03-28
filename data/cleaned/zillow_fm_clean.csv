@@ -1,0 +1,2059 @@
+region_id,size_rank,region_name,region_type,state_name,state,metro,state_code_fips,municipal_code_fips,period_date,home_value
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2009,162985.47
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2009,168273.69
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2009,210692.92
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2009,194320.64
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2009,173619.65
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2009,229042.77
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2009,164903.70
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2009,203991.52
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2009,163411.21
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2009,168143.72
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2009,211015.33
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2009,194370.58
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2009,173669.78
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2009,231137.39
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2009,186310.50
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2009,164469.83
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2009,215166.46
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2009,203657.37
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2009,163307.37
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2009,167753.39
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2009,211375.72
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2009,194521.09
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2009,173279.58
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2009,232695.61
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2009,185885.47
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2009,164354.69
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2009,215920.67
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2009,203577.56
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2009,162974.69
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2009,167094.79
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2009,211011.67
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2009,194325.56
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2009,172482.91
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2009,234914.63
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2009,185593.56
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2009,164203.76
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2009,216465.29
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2009,202369.31
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2009,162170.62
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2009,166180.53
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2009,209750.52
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2009,193450.06
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2009,172029.03
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2009,235657.32
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2009,185151.40
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2009,164144.97
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2009,217246.28
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2009,201125.58
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2009,161025.39
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2009,165327.15
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2009,208137.42
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2009,192211.66
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2009,171947.91
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2009,235656.77
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2009,184256.83
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2009,163893.88
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2009,217013.06
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2009,199039.41
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2009,160105.79
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2009,164190.47
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2009,207198.99
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2009,190833.16
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2009,172379.18
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2009,234627.19
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2009,182635.87
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2009,162542.97
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2009,215899.88
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2009,197365.11
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2009,160032.89
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2009,162740.29
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2009,207680.37
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2009,190790.08
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2009,172908.15
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2009,233218.20
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2009,180397.64
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2009,160601.10
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2009,215409.89
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2009,196878.93
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2009,160648.32
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2009,161178.73
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2009,209102.42
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2009,191540.43
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2009,173405.10
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2009,231588.14
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2009,178322.13
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2009,158277.15
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2009,215200.93
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2009,197634.90
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2009,161289.06
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2009,159851.31
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2009,210234.47
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2009,192371.07
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2009,173239.62
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2009,230959.31
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2009,176657.75
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2009,156430.66
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2009,215812.38
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2009,199185.03
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2009,161200.04
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2009,158931.31
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2009,210774.83
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2009,192406.60
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2009,172070.11
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2009,229913.27
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2009,175332.61
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2009,154964.56
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2009,215571.03
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2009,199872.10
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2009,161066.59
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2009,158183.78
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2009,210442.78
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2009,192187.84
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2009,170698.70
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2009,228748.41
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2009,174356.19
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2009,153749.09
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2009,217253.78
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2009,200941.83
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2010,160800.43
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2010,157544.99
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2010,209999.24
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2010,192477.08
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2010,169544.42
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2010,226998.70
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2010,173648.61
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2010,152816.29
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2010,219318.17
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2010,202496.72
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2010,160205.75
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2010,157273.60
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2010,208919.51
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2010,192511.67
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2010,167989.45
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2010,225711.98
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2010,173460.71
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2010,152209.83
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2010,221246.02
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2010,204009.11
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2010,159060.93
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2010,157445.46
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2010,207646.72
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2010,191760.29
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2010,165880.04
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2010,224419.54
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2010,174088.05
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2010,152404.10
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2010,219484.57
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2010,202679.71
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2010,157865.81
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2010,157958.13
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2010,206666.35
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2010,190720.27
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2010,163764.36
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2010,223422.25
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2010,175204.24
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2010,153212.65
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2010,216138.06
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2010,199612.28
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2010,157414.95
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2010,158592.09
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2010,206422.73
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2010,190354.83
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2010,162707.44
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2010,221583.28
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2010,176691.20
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2010,154378.11
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2010,214352.06
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2010,195844.28
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2010,157506.45
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2010,159100.31
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2010,206719.32
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2010,190439.09
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2010,162625.17
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2010,219699.85
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2010,177336.56
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2010,155119.41
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2010,213437.81
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2010,193786.10
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2010,158318.21
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2010,159651.22
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2010,207544.43
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2010,191323.33
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2010,163918.15
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2010,217874.62
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2010,178000.48
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2010,155662.98
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2010,214597.71
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2010,193934.29
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2010,158896.60
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2010,159678.59
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2010,207912.31
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2010,191992.71
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2010,166020.44
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2010,217495.70
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2010,177635.75
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2010,155766.45
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2010,215806.39
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2010,194679.04
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2010,159952.34
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2010,159795.93
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2010,208222.23
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2010,192839.09
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2010,168526.60
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2010,218020.43
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2010,177979.75
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2010,155819.20
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2010,218489.85
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2010,195880.03
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2010,160378.44
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2010,159560.52
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2010,207749.39
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2010,192569.08
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2010,169761.86
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2010,218616.40
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2010,177984.95
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2010,155399.12
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2010,220160.10
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2010,196125.39
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2010,160395.22
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2010,159414.78
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2010,207290.60
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2010,192111.69
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2010,170293.17
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2010,220070.79
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2010,178245.85
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2010,154726.82
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2010,220232.14
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2010,196445.82
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2010,159784.59
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2010,158819.97
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2010,206763.40
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2010,191398.52
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2010,169945.28
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2010,221407.91
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2010,177707.02
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2010,153645.07
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2010,219469.11
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2010,195942.57
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2011,159124.34
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2011,158031.89
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2011,206805.50
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2011,191217.03
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2011,169694.91
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2011,222851.51
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2011,176715.08
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2011,152384.90
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2011,217457.10
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2011,195593.20
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2011,158415.58
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2011,157140.87
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2011,207310.37
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2011,191248.47
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2011,168682.03
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2011,223285.32
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2011,175581.49
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2011,151194.68
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2011,214246.86
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2011,194866.40
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2011,157991.29
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2011,156137.03
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2011,207714.32
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2011,192307.52
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2011,168422.35
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2011,223568.31
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2011,174474.27
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2011,150219.26
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2011,212347.23
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2011,195878.71
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2011,157770.75
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2011,155253.92
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2011,208102.37
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2011,193563.28
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2011,168333.18
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2011,224409.36
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2011,173677.21
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2011,149797.07
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2011,212404.67
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2011,196763.15
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2011,157029.30
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2011,154715.25
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2011,208249.16
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2011,193707.70
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2011,167817.36
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2011,225513.96
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2011,173398.64
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2011,149801.73
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2011,213522.01
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2011,197438.04
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2011,155329.28
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2011,154705.09
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2011,208014.03
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2011,191892.97
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2011,165633.62
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2011,224632.61
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2011,173409.64
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2011,150014.39
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2011,211736.97
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2011,195071.31
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2011,153533.68
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2011,154977.12
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2011,207775.15
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2011,189422.51
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2011,162896.98
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2011,222405.79
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2011,173810.64
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2011,150472.97
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2011,207622.32
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2011,190219.75
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2011,152350.51
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2011,155310.52
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2011,207619.96
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2011,187572.51
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2011,160461.92
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2011,220031.56
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2011,174553.61
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2011,151030.83
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2011,202484.46
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2011,185278.39
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2011,151548.59
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2011,155548.06
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2011,207269.10
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2011,186211.68
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2011,158596.77
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2011,218736.76
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2011,175477.74
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2011,151543.06
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2011,197860.04
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2011,182464.23
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2011,150798.15
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2011,155732.58
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2011,206861.14
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2011,185294.58
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2011,157140.73
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2011,217752.26
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2011,176166.25
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2011,151704.82
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2011,193876.02
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2011,181683.78
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2011,150006.56
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2011,155781.71
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2011,205902.04
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2011,184277.29
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2011,156047.91
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2011,215667.52
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2011,176284.37
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2011,151544.97
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2011,191095.78
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2011,181006.22
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2011,149196.81
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2011,155690.45
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2011,205329.33
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2011,183339.59
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2011,155222.50
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2011,213803.59
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2011,176247.43
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2011,151194.79
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2011,188961.45
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2011,179642.24
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2012,148297.60
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2012,155548.68
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2012,204848.02
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2012,182258.45
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2012,154007.61
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2012,212536.39
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2012,176190.95
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2012,150737.49
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2012,186805.47
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2012,178871.16
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/29/2012,147470.88
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/29/2012,155602.05
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/29/2012,204681.20
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/29/2012,181633.31
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/29/2012,152885.89
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/29/2012,211709.23
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/29/2012,176707.22
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/29/2012,150483.77
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/29/2012,184607.39
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/29/2012,178496.69
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2012,146991.13
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2012,155701.62
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2012,204960.26
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2012,181554.30
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2012,152078.63
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2012,211825.47
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2012,177701.48
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2012,150768.11
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2012,183409.35
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2012,178732.66
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2012,146500.87
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2012,155786.31
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2012,204976.06
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2012,181425.30
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2012,151494.32
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2012,211509.94
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2012,178868.59
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2012,151612.23
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2012,182945.31
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2012,178389.18
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2012,146164.26
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2012,155464.35
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2012,205151.84
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2012,181213.10
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2012,151043.89
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2012,211599.35
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2012,179575.15
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2012,152468.20
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2012,183008.52
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2012,178705.78
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2012,146415.65
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2012,155194.49
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2012,206023.81
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2012,181568.99
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2012,151050.11
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2012,211710.72
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2012,180308.92
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2012,153407.28
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2012,183487.55
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2012,179852.74
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2012,146856.56
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2012,155229.97
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2012,207564.13
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2012,182251.91
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2012,151246.92
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2012,212229.83
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2012,181360.49
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2012,154103.54
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2012,184013.62
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2012,181245.67
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2012,147415.11
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2012,155446.81
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2012,209214.18
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2012,183134.63
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2012,151589.56
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2012,213622.66
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2012,182947.41
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2012,154668.00
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2012,184505.96
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2012,182753.39
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2012,147700.47
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2012,155786.52
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2012,210213.57
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2012,183338.09
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2012,151838.52
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2012,214604.38
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2012,184156.52
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2012,154471.44
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2012,184758.82
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2012,183693.69
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2012,148590.88
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2012,155989.36
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2012,211154.35
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2012,183717.99
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2012,152857.04
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2012,216170.97
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2012,185174.71
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2012,154255.24
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2012,185777.51
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2012,185267.57
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2012,149600.62
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2012,156272.22
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2012,212294.17
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2012,184235.73
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2012,153815.08
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2012,217082.36
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2012,185338.81
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2012,153861.98
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2012,187065.15
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2012,186368.88
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2012,150715.09
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2012,156633.60
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2012,213546.38
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2012,185060.96
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2012,154960.89
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2012,218713.69
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2012,184577.79
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2012,153690.67
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2012,188473.01
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2012,187597.82
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2013,151539.40
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2013,157153.27
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2013,215182.93
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2013,185995.06
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2013,155594.06
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2013,220912.51
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2013,183260.29
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2013,153384.96
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2013,189423.24
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2013,188015.07
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2013,152084.56
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2013,157971.51
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2013,216459.66
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2013,186689.25
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2013,156184.55
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2013,223072.82
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2013,182387.48
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2013,153307.02
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2013,189964.97
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2013,187875.29
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2013,152609.42
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2013,158965.31
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2013,217567.93
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2013,187418.68
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2013,156450.68
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2013,225321.42
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2013,182521.41
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2013,153958.91
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2013,190067.72
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2013,187552.05
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2013,152911.89
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2013,160021.80
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2013,217885.44
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2013,187843.29
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2013,156651.77
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2013,226772.15
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2013,183524.72
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2013,155091.27
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2013,189739.39
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2013,187424.15
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2013,153706.39
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2013,160835.55
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2013,218632.38
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2013,188815.43
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2013,157448.09
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2013,229169.90
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2013,184526.80
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2013,156294.81
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2013,190088.11
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2013,188592.01
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2013,154558.85
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2013,161400.23
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2013,219891.37
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2013,190059.16
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2013,158241.50
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2013,231426.84
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2013,185595.99
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2013,157063.68
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2013,191162.76
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2013,190163.64
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2013,155658.74
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2013,161890.64
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2013,222016.58
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2013,191696.12
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2013,159203.18
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2013,234090.74
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2013,186367.09
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2013,157670.00
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2013,192810.11
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2013,191802.15
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2013,156760.27
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2013,162786.61
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2013,224181.47
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2013,193344.34
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2013,159941.82
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2013,237168.77
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2013,187512.10
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2013,158859.50
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2013,194436.10
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2013,193418.47
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2013,157691.97
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2013,163607.29
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2013,225860.44
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2013,194610.10
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2013,160933.69
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2013,240347.88
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2013,188735.91
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2013,160004.34
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2013,195845.63
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2013,194988.67
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2013,158665.67
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2013,164236.75
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2013,227204.36
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2013,195846.20
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2013,162156.32
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2013,243514.56
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2013,189996.99
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2013,161111.20
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2013,197683.13
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2013,197114.41
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2013,159430.90
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2013,164407.94
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2013,228356.90
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2013,196737.20
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2013,163221.97
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2013,245074.20
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2013,190467.76
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2013,161322.75
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2013,199117.35
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2013,198385.66
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2013,160383.39
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2013,164868.18
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2013,229554.49
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2013,197730.78
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2013,164399.94
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2013,245600.95
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2013,190060.48
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2013,161382.61
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2013,200374.42
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2013,199099.94
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2014,160742.93
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2014,165576.84
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2014,230104.99
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2014,197933.13
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2014,164689.93
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2014,245175.98
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2014,190021.71
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2014,161559.74
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2014,200774.16
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2014,198515.50
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2014,160937.18
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2014,166690.20
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2014,230286.81
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2014,197997.50
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2014,164813.96
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2014,244525.66
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2014,190947.43
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2014,162320.86
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2014,200731.66
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2014,197570.33
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2014,160877.99
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2014,167718.62
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2014,230563.29
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2014,198133.80
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2014,164621.65
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2014,244490.85
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2014,193264.29
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2014,163523.45
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2014,200497.38
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2014,196480.81
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2014,161222.93
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2014,168931.49
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2014,231049.95
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2014,198825.83
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2014,164953.57
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2014,244143.46
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2014,195418.63
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2014,164786.91
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2014,199771.47
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2014,195225.68
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2014,162021.72
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2014,169962.01
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2014,232116.31
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2014,200033.99
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2014,165696.03
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2014,244474.06
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2014,196789.50
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2014,165677.21
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2014,199400.16
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2014,194882.50
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2014,162992.65
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2014,171118.05
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2014,233733.26
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2014,201558.12
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2014,166248.72
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2014,244271.52
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2014,197944.16
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2014,166359.07
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2014,199297.41
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2014,195668.59
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2014,164191.81
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2014,172336.25
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2014,236105.61
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2014,203527.10
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2014,166972.41
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2014,245424.26
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2014,199082.13
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2014,167293.31
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2014,200759.43
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2014,198988.21
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2014,165349.57
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2014,173623.07
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2014,238578.98
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2014,205561.89
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2014,167562.07
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2014,247536.71
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2014,200994.46
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2014,168711.87
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2014,202969.18
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2014,203179.20
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2014,166639.54
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2014,174779.17
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2014,240867.94
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2014,207403.60
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2014,168793.77
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2014,250534.49
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2014,202830.11
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2014,169980.41
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2014,205648.30
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2014,206674.41
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2014,167948.92
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2014,175376.08
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2014,243156.43
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2014,209225.22
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2014,170306.83
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2014,253650.82
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2014,204301.13
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2014,170838.56
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2014,208415.20
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2014,209768.59
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2014,169371.82
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2014,175876.04
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2014,245665.01
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2014,211039.41
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2014,172057.52
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2014,255883.76
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2014,205413.93
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2014,171741.56
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2014,211189.76
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2014,212432.87
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2014,170722.50
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2014,176168.73
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2014,247802.77
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2014,212486.39
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2014,173643.64
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2014,257559.47
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2014,205573.84
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2014,172634.98
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2014,213305.94
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2014,215190.73
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2015,171628.81
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2015,176773.78
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2015,249268.58
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2015,213192.70
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2015,174197.55
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2015,258129.65
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2015,205899.52
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2015,173374.91
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2015,213882.50
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2015,215317.75
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2015,172395.72
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2015,177552.75
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2015,250392.35
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2015,213356.19
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2015,174730.88
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2015,258567.94
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2015,206235.47
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2015,173842.95
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2015,213988.76
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2015,214469.69
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2015,173288.58
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2015,178406.65
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2015,251927.84
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2015,213732.32
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2015,175319.21
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2015,259784.56
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2015,207574.54
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2015,174651.48
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2015,214464.94
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2015,213801.02
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2015,174664.80
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2015,179574.72
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2015,253829.66
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2015,214762.31
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2015,176881.29
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2015,261601.02
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2015,209533.92
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2015,175930.08
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2015,215933.72
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2015,215136.11
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2015,176885.27
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2015,181254.33
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2015,256670.72
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2015,217155.52
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2015,179469.60
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2015,264827.76
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2015,212065.68
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2015,177625.47
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2015,218537.25
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2015,217830.05
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2015,179472.45
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2015,183643.25
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2015,259782.38
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2015,220140.18
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2015,182511.55
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2015,268112.10
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2015,215401.56
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2015,179755.92
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2015,221547.70
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2015,220762.72
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2015,182246.33
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2015,185763.52
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2015,263641.88
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2015,223356.40
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2015,185626.47
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2015,272189.67
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2015,217921.56
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2015,181468.97
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2015,224853.96
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2015,224240.06
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2015,184324.62
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2015,187410.14
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2015,267155.05
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2015,225921.37
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2015,187604.49
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2015,276291.97
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2015,219860.77
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2015,182888.98
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2015,227908.90
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2015,228153.64
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2015,185701.45
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2015,188332.30
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2015,270464.19
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2015,228159.79
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2015,189078.99
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2015,280255.20
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2015,220448.56
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2015,183451.17
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2015,230302.95
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2015,232029.63
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2015,187034.82
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2015,189434.81
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2015,273429.48
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2015,230534.20
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2015,190822.00
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2015,284633.68
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2015,221262.22
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2015,184073.91
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2015,232856.40
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2015,236475.83
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2015,188357.70
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2015,190578.89
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2015,276108.83
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2015,233065.78
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2015,192749.78
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2015,287484.55
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2015,222395.28
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2015,184727.63
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2015,235141.01
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2015,239946.86
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2015,190028.53
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2015,192085.37
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2015,278621.53
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2015,235958.21
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2015,194599.79
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2015,290094.64
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2015,223519.23
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2015,185667.50
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2015,238499.29
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2015,243952.78
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2016,191143.42
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2016,193473.49
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2016,280166.69
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2016,238113.98
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2016,195338.99
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2016,290917.10
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2016,224884.53
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2016,186709.71
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2016,240714.21
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2016,245938.35
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/29/2016,192049.89
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/29/2016,194831.51
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/29/2016,281353.35
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/29/2016,239739.50
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/29/2016,195852.13
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/29/2016,291337.81
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/29/2016,225777.20
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/29/2016,188036.36
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/29/2016,242122.98
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/29/2016,247156.24
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2016,192310.77
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2016,196144.57
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2016,282056.99
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2016,240247.24
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2016,195618.11
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2016,290994.59
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2016,226635.12
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2016,189492.07
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2016,241924.01
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2016,246716.06
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2016,192860.49
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2016,197538.14
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2016,283203.73
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2016,240562.57
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2016,196029.69
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2016,290542.68
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2016,227358.16
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2016,191004.16
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2016,241933.96
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2016,246701.07
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2016,193495.07
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2016,198828.11
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2016,284167.80
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2016,240634.86
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2016,196375.52
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2016,290699.88
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2016,228397.90
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2016,192149.75
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2016,241791.78
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2016,247081.86
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2016,194603.49
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2016,199822.65
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2016,285310.85
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2016,241454.15
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2016,197217.36
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2016,291585.20
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2016,229740.97
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2016,193313.46
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2016,242307.39
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2016,248168.17
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2016,195328.62
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2016,201029.49
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2016,286402.91
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2016,242696.57
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2016,197678.81
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2016,293165.59
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2016,231302.12
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2016,194334.43
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2016,242365.33
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2016,248936.45
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2016,195552.62
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2016,202474.80
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2016,287746.12
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2016,244244.59
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2016,197904.42
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2016,295299.81
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2016,232530.60
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2016,195404.05
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2016,242261.24
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2016,249202.75
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2016,195610.69
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2016,204117.83
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2016,289246.35
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2016,246097.51
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2016,198290.06
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2016,297917.06
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2016,233554.82
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2016,196557.61
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2016,242146.09
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2016,248805.23
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2016,195984.30
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2016,205383.50
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2016,291162.49
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2016,248205.87
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2016,199109.88
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2016,300854.07
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2016,234098.92
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2016,197950.57
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2016,242193.79
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2016,248305.65
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2016,196697.31
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2016,206276.16
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2016,293306.90
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2016,250492.57
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2016,200170.89
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2016,303764.91
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2016,234957.12
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2016,199420.84
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2016,242557.03
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2016,248065.07
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2016,197599.55
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2016,207286.13
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2016,295788.90
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2016,252589.46
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2016,201312.38
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2016,306321.79
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2016,236045.52
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2016,200814.81
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2016,243220.64
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2016,248556.35
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2017,198223.24
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2017,208316.99
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2017,297638.75
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2017,254240.56
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2017,201644.40
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2017,307825.61
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2017,237363.69
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2017,202263.43
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2017,244041.55
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2017,248659.18
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2017,198745.68
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2017,209237.13
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2017,298872.98
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2017,255630.43
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2017,201700.48
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2017,308432.20
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2017,238376.31
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2017,203388.16
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2017,245118.39
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2017,249022.68
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2017,198758.02
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2017,209889.33
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2017,298744.61
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2017,256046.27
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2017,201248.22
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2017,307810.75
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2017,239171.37
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2017,204135.66
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2017,245419.82
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2017,248753.87
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2017,198834.89
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2017,210340.86
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2017,298519.14
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2017,256235.62
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2017,201157.42
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2017,307242.63
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2017,239971.14
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2017,204458.65
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2017,245916.90
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2017,249069.86
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2017,198940.83
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2017,210898.27
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2017,298506.20
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2017,256293.22
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2017,201299.07
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2017,307126.15
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2017,240625.49
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2017,204864.05
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2017,245894.66
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2017,249292.37
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2017,199504.59
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2017,211488.58
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2017,299276.48
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2017,256899.41
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2017,201789.39
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2017,307877.83
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2017,241444.16
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2017,205460.74
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2017,246662.69
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2017,250302.18
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2017,199971.82
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2017,211580.29
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2017,300092.29
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2017,257314.85
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2017,202176.10
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2017,309400.12
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2017,241985.20
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2017,205754.42
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2017,247284.27
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2017,251541.12
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2017,200171.27
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2017,211048.73
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2017,300320.90
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2017,257099.93
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2017,202022.95
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2017,310396.47
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2017,242361.30
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2017,205605.63
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2017,247760.50
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2017,252339.74
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2017,200010.30
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2017,210067.89
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2017,299699.50
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2017,256549.49
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2017,201506.31
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2017,311011.21
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2017,242632.12
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2017,205292.25
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2017,247956.50
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2017,252583.78
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2017,200023.77
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2017,209685.99
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2017,298617.24
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2017,256151.16
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2017,201392.88
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2017,310811.91
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2017,243030.97
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2017,205400.81
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2017,248027.12
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2017,252291.07
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2017,200220.32
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2017,209892.61
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2017,297693.99
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2017,255991.34
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2017,201628.14
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2017,310265.90
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2017,243460.39
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2017,206147.23
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2017,247809.35
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2017,251820.28
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2017,200634.67
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2017,210418.97
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2017,297641.15
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2017,256149.54
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2017,202185.70
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2017,309707.01
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2017,243401.13
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2017,207254.82
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2017,246598.26
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2017,251306.75
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2018,201080.66
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2018,210705.06
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2018,298041.37
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2018,256209.36
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2018,202545.69
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2018,309761.73
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2018,243358.97
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2018,208645.55
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2018,245494.78
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2018,251253.88
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2018,201618.04
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2018,211111.61
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2018,298586.56
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2018,256340.00
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2018,203100.98
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2018,310746.94
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2018,243593.48
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2018,210058.29
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2018,245572.10
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2018,252036.62
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2018,202190.29
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2018,211864.97
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2018,299084.05
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2018,256460.54
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2018,203654.76
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2018,312322.51
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2018,244825.59
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2018,211084.42
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2018,246863.41
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2018,253948.67
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2018,202402.80
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2018,212440.50
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2018,299201.84
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2018,256360.38
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2018,203888.31
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2018,313491.52
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2018,245997.00
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2018,211288.78
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2018,247799.94
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2018,255316.41
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2018,202269.38
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2018,212819.30
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2018,298966.82
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2018,255958.37
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2018,203805.45
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2018,313505.49
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2018,247442.67
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2018,211183.44
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2018,247863.93
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2018,256129.78
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2018,201919.78
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2018,212758.08
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2018,298351.66
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2018,255008.60
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2018,203731.66
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2018,312612.50
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2018,248445.69
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2018,211048.22
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2018,247563.52
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2018,255718.56
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2018,201873.29
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2018,213163.74
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2018,298213.71
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2018,254631.07
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2018,204042.88
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2018,312514.53
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2018,249818.85
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2018,211489.40
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2018,248581.91
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2018,256106.35
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2018,201973.91
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2018,213069.24
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2018,298247.85
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2018,254096.92
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2018,204294.71
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2018,312477.24
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2018,250684.30
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2018,211720.70
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2018,249618.97
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2018,256147.74
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2018,201813.55
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2018,212745.00
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2018,298103.98
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2018,253666.23
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2018,204211.80
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2018,312515.91
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2018,251031.06
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2018,211544.23
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2018,250387.93
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2018,256867.51
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2018,201124.02
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2018,211883.58
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2018,297640.06
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2018,252802.90
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2018,203730.06
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2018,312289.00
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2018,250694.57
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2018,210734.69
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2018,250496.71
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2018,257738.83
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2018,200373.45
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2018,211568.55
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2018,296882.70
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2018,252019.28
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2018,203197.23
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2018,311901.11
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2018,250705.24
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2018,210037.60
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2018,250746.47
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2018,258862.44
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2018,200011.94
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2018,211515.14
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2018,296268.93
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2018,251469.14
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2018,203057.53
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2018,311644.69
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2018,250919.58
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2018,209972.43
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2018,251434.10
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2018,259256.69
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2019,200667.72
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2019,212146.76
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2019,296221.95
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2019,251541.28
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2019,204139.88
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2019,311529.84
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2019,252290.46
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2019,210939.49
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2019,252967.50
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2019,259509.91
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2019,202209.36
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2019,213092.17
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2019,297576.67
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2019,252731.87
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2019,206598.30
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2019,313375.57
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2019,254079.72
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2019,212316.45
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2019,255667.41
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2019,260944.65
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2019,203956.82
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2019,214605.04
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2019,299696.46
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2019,254239.89
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2019,209451.19
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2019,316499.93
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2019,257042.56
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2019,214266.84
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2019,258629.00
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2019,263328.07
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2019,205360.38
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2019,215755.85
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2019,302054.40
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2019,256091.82
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2019,211997.28
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2019,320812.44
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2019,259347.96
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2019,215619.18
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2019,262448.81
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2019,266496.32
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2019,206708.48
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2019,216561.85
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2019,304317.53
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2019,258362.71
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2019,214129.95
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2019,326194.85
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2019,260767.92
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2019,216759.37
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2019,267107.27
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2019,270349.62
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2019,208167.57
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2019,216796.26
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2019,306366.15
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2019,260804.78
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2019,216048.06
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2019,331404.64
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2019,261057.81
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2019,217087.62
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2019,271903.74
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2019,274851.70
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2019,209473.73
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2019,216700.55
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2019,307421.70
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2019,262476.43
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2019,217500.16
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2019,334950.69
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2019,261238.68
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2019,217137.16
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2019,275193.33
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2019,279163.25
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2019,209928.38
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2019,216361.57
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2019,307464.04
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2019,262797.44
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2019,218228.31
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2019,335475.81
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2019,261692.62
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2019,216814.94
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2019,275922.67
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2019,281741.78
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2019,210108.41
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2019,216082.06
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2019,307131.25
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2019,262567.01
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2019,218634.48
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2019,335013.46
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2019,262397.41
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2019,216392.60
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2019,276270.50
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2019,282900.39
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2019,210664.34
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2019,216211.45
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2019,307446.25
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2019,262554.13
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2019,219092.92
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2019,334640.56
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2019,263635.88
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2019,215851.32
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2019,276527.61
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2019,283438.45
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2019,211968.24
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2019,216594.68
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2019,308610.56
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2019,263361.96
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2019,220020.42
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2019,336661.26
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2019,265197.34
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2019,215519.06
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2019,278309.55
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2019,284893.69
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2019,213287.38
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2019,217129.56
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2019,309678.10
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2019,264130.91
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2019,221239.88
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2019,338562.45
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2019,266731.55
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2019,215496.68
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2019,279566.22
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2019,287097.34
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2020,214376.53
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2020,217465.58
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2020,310574.94
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2020,264858.48
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2020,222798.81
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2020,340587.70
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2020,267459.63
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2020,215678.54
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2020,281064.77
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2020,289310.98
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/29/2020,215024.42
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/29/2020,217701.63
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/29/2020,311023.15
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/29/2020,265043.79
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/29/2020,224330.82
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/29/2020,341850.58
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/29/2020,268007.31
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/29/2020,216172.12
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/29/2020,281835.51
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/29/2020,291118.56
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2020,215463.83
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2020,218025.46
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2020,311557.61
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2020,265326.28
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2020,225553.82
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2020,343672.73
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2020,269111.13
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2020,216835.20
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2020,283409.33
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2020,292824.58
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2020,215481.42
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2020,218647.92
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2020,311664.69
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2020,265319.07
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2020,225951.49
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2020,345258.66
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2020,270731.90
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2020,217987.08
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2020,284432.84
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2020,294518.76
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2020,214620.85
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2020,219292.64
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2020,311482.60
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2020,265280.95
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2020,225212.43
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2020,345593.68
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2020,272454.80
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2020,218986.79
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2020,284828.47
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2020,295723.00
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2020,213629.21
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2020,219708.38
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2020,311436.17
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2020,265683.50
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2020,224088.90
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2020,345708.43
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2020,273557.00
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2020,219700.00
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2020,284801.35
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2020,296616.69
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2020,212722.51
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2020,219902.82
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2020,311565.80
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2020,266283.62
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2020,222908.98
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2020,346389.15
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2020,274238.44
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2020,220236.77
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2020,284852.47
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2020,297518.20
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2020,212567.41
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2020,220047.42
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2020,311785.81
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2020,267224.17
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2020,222365.68
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2020,348199.34
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2020,275252.51
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2020,220790.51
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2020,285664.73
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2020,298809.32
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2020,213144.80
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2020,220663.38
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2020,312166.14
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2020,268529.00
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2020,222759.83
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2020,350733.65
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2020,277684.49
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2020,222141.36
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2020,286622.13
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2020,300528.15
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2020,213179.13
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2020,221374.50
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2020,312155.32
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2020,270148.75
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2020,222733.84
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2020,352961.31
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2020,280299.22
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2020,223419.03
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2020,288093.35
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2020,302352.51
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2020,212910.39
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2020,222070.67
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2020,311987.05
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2020,271761.02
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2020,222329.83
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2020,354325.65
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2020,282275.46
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2020,224572.32
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2020,289053.67
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2020,303706.85
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2020,211854.43
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2020,222252.59
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2020,311658.80
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2020,273228.94
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2020,221074.95
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2020,356170.94
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2020,282820.31
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2020,224748.70
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2020,290295.82
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2020,305338.66
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2021,211302.58
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2021,222440.20
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2021,311660.55
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2021,274590.35
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2021,220228.90
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2021,358395.91
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2021,283250.32
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2021,224524.44
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2021,291405.19
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2021,306992.23
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2021,211253.21
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2021,222776.56
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2021,312561.09
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2021,276378.12
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2021,219925.89
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2021,362048.71
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2021,283929.94
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2021,224239.04
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2021,293477.49
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2021,309594.77
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2021,211905.58
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2021,223608.34
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2021,314306.41
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2021,278335.22
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2021,220219.44
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2021,364772.47
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2021,284626.95
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2021,224373.75
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2021,294837.72
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2021,311587.53
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2021,212856.26
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2021,224939.96
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2021,317102.41
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2021,280715.68
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2021,220960.09
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2021,367907.65
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2021,286335.83
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2021,225430.44
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2021,296697.86
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2021,313859.02
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2021,214204.87
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2021,227526.66
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2021,320523.13
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2021,283827.97
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2021,222136.22
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2021,372407.69
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2021,290086.01
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2021,228033.38
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2021,299156.60
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2021,317285.12
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2021,216004.96
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2021,230770.55
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2021,323978.35
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2021,287258.19
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2021,223781.86
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2021,377580.57
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2021,295521.23
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2021,231552.85
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2021,302449.16
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2021,321744.85
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2021,218191.62
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2021,234316.53
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2021,327237.68
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2021,290409.14
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2021,225853.11
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2021,381857.85
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2021,300563.57
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2021,235772.85
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2021,304643.03
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2021,325302.28
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2021,220357.19
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2021,236761.44
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2021,330028.54
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2021,292790.13
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2021,228004.53
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2021,384903.75
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2021,303134.23
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2021,239105.86
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2021,306266.35
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2021,327969.50
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2021,221809.38
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2021,238395.67
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2021,331915.93
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2021,294150.00
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2021,229278.67
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2021,387500.23
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2021,304042.75
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2021,241461.18
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2021,306509.93
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2021,329275.24
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2021,222879.11
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2021,239667.33
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2021,333553.75
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2021,295321.23
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2021,230046.35
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2021,390933.81
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2021,304802.02
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2021,242837.44
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2021,306312.94
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2021,330938.76
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2021,223636.77
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2021,241277.03
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2021,334987.76
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2021,296179.61
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2021,230335.59
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2021,394692.41
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2021,307167.28
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2021,244151.12
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2021,304997.84
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2021,331958.87
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2021,224732.24
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2021,243287.38
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2021,337071.48
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2021,297734.04
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2021,231211.52
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2021,399156.64
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2021,310872.51
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2021,245732.74
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2021,304646.91
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2021,334304.38
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2022,226378.81
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2022,245352.02
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2022,339949.47
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2022,299817.95
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2022,232611.18
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2022,403837.65
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2022,316125.17
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2022,247362.12
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2022,306022.18
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2022,338629.73
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2022,228083.29
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2022,247668.49
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2022,343108.18
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2022,301774.05
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2022,234005.03
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2022,406967.04
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2022,321190.39
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2022,248741.02
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2022,308794.33
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2022,342490.02
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2022,229673.80
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2022,249782.21
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2022,346861.52
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2022,303978.38
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2022,235021.06
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2022,409316.10
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2022,325514.39
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2022,250073.39
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2022,312378.60
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2022,345756.09
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2022,231344.52
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2022,252737.53
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2022,350774.70
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2022,306816.69
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2022,236016.10
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2022,412841.60
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2022,329978.71
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2022,252626.16
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2022,316420.52
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2022,348299.75
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2022,232632.55
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2022,255533.22
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2022,354240.64
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2022,309584.83
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2022,236964.77
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2022,417184.84
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2022,332997.71
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2022,255408.05
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2022,319677.69
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2022,351302.37
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2022,233993.32
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2022,258026.76
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2022,356931.45
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2022,312247.76
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2022,238338.82
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2022,422498.05
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2022,335101.36
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2022,257829.06
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2022,323222.03
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2022,355246.16
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2022,234480.31
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2022,258616.03
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2022,358013.61
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2022,313943.99
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2022,239234.78
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2022,425366.55
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2022,334643.25
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2022,258086.11
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2022,325212.28
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2022,357385.89
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2022,234788.35
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2022,258103.97
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2022,358549.54
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2022,315805.60
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2022,239830.20
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2022,427450.78
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2022,334216.98
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2022,257206.67
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2022,327194.75
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2022,358365.45
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2022,234428.33
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2022,257099.80
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2022,358496.76
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2022,317053.13
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2022,239672.89
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2022,427473.68
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2022,334061.74
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2022,255749.11
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2022,328493.15
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2022,356961.47
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2022,234427.49
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2022,256620.55
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2022,359532.69
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2022,318224.84
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2022,239726.85
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2022,428168.01
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2022,335045.15
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2022,255342.38
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2022,330498.64
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2022,356944.97
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2022,234499.12
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2022,256656.22
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2022,360836.00
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2022,318801.44
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2022,239889.60
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2022,428997.94
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2022,336998.71
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2022,255787.47
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2022,330757.83
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2022,357615.13
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2022,234640.47
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2022,256865.55
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2022,362015.97
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2022,318710.93
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2022,240000.53
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2022,428553.16
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2022,338991.60
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2022,256958.42
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2022,328155.17
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2022,357994.65
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2023,234436.45
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2023,258206.95
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2023,362594.60
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2023,318711.60
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2023,239675.57
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2023,428260.82
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2023,341685.18
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2023,259329.41
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2023,323375.53
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2023,356987.95
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2023,234600.34
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2023,258911.63
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2023,363120.63
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2023,317996.06
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2023,239583.21
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2023,425906.58
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2023,343449.81
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2023,261193.51
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2023,317699.86
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2023,354622.22
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2023,235240.21
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2023,260191.09
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2023,364036.32
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2023,318040.50
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2023,240124.94
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2023,424968.17
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2023,347357.60
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2023,264264.42
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2023,313979.12
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2023,354045.93
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2023,236761.77
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2023,261045.51
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2023,365355.41
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2023,318668.02
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2023,241684.23
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2023,421994.36
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2023,351316.04
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2023,266847.45
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2023,311388.70
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2023,354247.30
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2023,238412.91
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2023,262465.61
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2023,366165.99
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2023,320540.63
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2023,243423.28
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2023,417093.86
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2023,356136.27
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2023,269944.18
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2023,310566.31
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2023,354565.52
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2023,240390.13
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2023,263975.09
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2023,367623.97
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2023,323299.07
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2023,245344.51
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2023,411852.63
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2023,357676.74
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2023,272061.95
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2023,310771.13
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2023,353868.52
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2023,241614.39
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2023,264634.46
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2023,368607.37
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2023,325378.38
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2023,246172.48
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2023,405940.65
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2023,356922.37
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2023,272367.28
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2023,310236.10
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2023,352497.74
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2023,242318.45
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2023,265232.13
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2023,369650.19
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2023,326669.72
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2023,246390.44
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2023,402061.43
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2023,355590.41
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2023,271815.61
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2023,310415.87
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2023,352370.58
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2023,241825.96
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2023,264927.96
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2023,369097.23
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2023,326292.89
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2023,245220.22
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2023,395995.68
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2023,355195.67
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2023,270285.62
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2023,306773.44
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2023,350536.59
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2023,241083.20
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2023,263868.41
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2023,368008.86
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2023,325182.51
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2023,244217.78
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2023,390109.66
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2023,354130.98
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2023,268468.85
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2023,301760.76
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2023,347903.70
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2023,240220.96
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2023,262801.89
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2023,366965.04
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2023,324321.30
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2023,243391.38
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2023,384939.14
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2023,353107.77
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2023,267331.44
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2023,295344.36
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2023,345417.00
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2023,239516.40
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2023,261504.92
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2023,366474.97
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2023,323697.19
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2023,242899.99
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2023,381147.29
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2023,351237.29
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2023,266143.00
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2023,290006.59
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2023,344164.18
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2024,239097.80
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2024,261250.17
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2024,366489.52
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2024,323586.92
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2024,242512.85
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2024,378479.89
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2024,350524.96
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2024,266002.59
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2024,286840.96
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2024,343688.96
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/29/2024,239114.07
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/29/2024,261811.14
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/29/2024,366890.91
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/29/2024,324345.96
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/29/2024,242440.30
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/29/2024,377785.19
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/29/2024,351521.69
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/29/2024,266553.74
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/29/2024,286570.65
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/29/2024,343990.28
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2024,240052.89
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2024,263250.19
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2024,368296.62
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2024,326119.36
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2024,243582.85
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2024,380700.47
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2024,354168.76
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2024,267827.44
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2024,289621.36
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2024,346697.83
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2024,241293.28
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2024,264666.63
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2024,369856.70
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2024,328278.83
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2024,244881.24
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2024,384498.50
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2024,356817.20
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2024,269232.57
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2024,293693.23
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2024,351021.88
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2024,242660.72
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2024,265530.07
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2024,371368.57
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2024,330260.72
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2024,246154.11
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2024,387753.32
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2024,357618.29
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2024,270155.45
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2024,297180.04
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2024,355254.30
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2024,243478.43
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2024,266004.35
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2024,372258.89
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2024,331334.69
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2024,246447.95
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2024,389744.78
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2024,359035.60
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2024,270648.24
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2024,299919.12
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2024,359180.18
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2024,244263.18
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2024,266340.55
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2024,373597.97
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2024,332463.24
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2024,246663.51
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2024,392474.87
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2024,360999.21
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2024,270707.78
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2024,303089.26
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2024,362690.95
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2024,245220.46
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2024,266701.38
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2024,375732.12
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2024,333481.85
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2024,246834.58
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2024,394690.75
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2024,363333.24
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2024,270447.18
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2024,303677.41
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2024,365323.21
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2024,246328.81
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2024,266995.34
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2024,377797.63
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2024,334633.12
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2024,247285.01
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2024,396446.19
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2024,363794.69
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2024,270351.94
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2024,303221.70
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2024,367078.34
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2024,247331.50
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2024,267596.86
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2024,379068.48
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2024,335282.97
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2024,247993.56
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2024,397293.06
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2024,364569.20
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2024,271109.36
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2024,301417.44
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2024,368195.10
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2024,248215.93
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2024,268469.19
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2024,379232.49
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2024,335912.73
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2024,249164.19
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2024,397861.10
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2024,364090.81
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2024,272658.31
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2024,300398.75
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2024,368933.47
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2024,249556.51
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2024,270043.59
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2024,379479.77
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2024,336912.51
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2024,250998.61
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2024,397735.20
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2024,364461.94
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2024,274868.53
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2024,299044.90
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2024,368997.10
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2025,251031.01
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2025,271427.99
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2025,380234.98
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2025,338290.59
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2025,252809.63
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2025,398160.58
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2025,364547.01
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2025,276477.58
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2025,298292.64
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2025,369231.95
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2025,252059.87
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2025,272571.88
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2025,381351.34
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2025,339974.77
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2025,254180.44
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2025,399254.60
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2025,365923.23
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2025,277728.14
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2025,298072.86
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2025,370428.95
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2025,252253.72
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,3/31/2025,273041.53
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2025,381732.23
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,3/31/2025,340745.69
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,3/31/2025,254466.39
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2025,399962.30
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,3/31/2025,366626.74
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,3/31/2025,278399.52
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,3/31/2025,297342.74
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,3/31/2025,370962.93
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2025,252263.01
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,4/30/2025,273380.33
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2025,381489.76
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,4/30/2025,340744.62
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,4/30/2025,254577.28
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2025,399396.57
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,4/30/2025,367262.64
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,4/30/2025,279241.75
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,4/30/2025,295758.63
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,4/30/2025,370557.90
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2025,252671.95
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,5/31/2025,273508.07
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2025,380985.05
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,5/31/2025,340023.15
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,5/31/2025,254801.69
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2025,398937.26
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,5/31/2025,367482.83
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,5/31/2025,279718.64
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,5/31/2025,295557.10
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,5/31/2025,369773.76
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2025,253400.12
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,6/30/2025,273818.04
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2025,380936.23
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,6/30/2025,339591.36
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,6/30/2025,255517.78
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2025,398901.01
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,6/30/2025,368229.81
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,6/30/2025,280397.30
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,6/30/2025,296771.92
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,6/30/2025,370477.00
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2025,254177.39
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,7/31/2025,273832.03
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2025,381567.52
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,7/31/2025,339760.91
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,7/31/2025,256117.67
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2025,398588.79
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,7/31/2025,368628.10
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,7/31/2025,280372.84
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,7/31/2025,298484.27
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,7/31/2025,372354.60
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2025,254652.43
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,8/31/2025,274112.18
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2025,382692.39
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,8/31/2025,340601.70
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,8/31/2025,256491.94
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2025,398131.28
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,8/31/2025,369676.64
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,8/31/2025,280805.88
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,8/31/2025,299586.10
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,8/31/2025,375019.16
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2025,255134.81
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,9/30/2025,274596.63
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2025,384293.84
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,9/30/2025,341977.43
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,9/30/2025,257041.69
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2025,398820.13
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,9/30/2025,371567.54
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,9/30/2025,281492.84
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,9/30/2025,300527.23
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,9/30/2025,377918.46
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2025,256083.76
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,10/31/2025,275870.93
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2025,386254.97
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,10/31/2025,343594.90
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,10/31/2025,258168.98
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2025,401528.74
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,10/31/2025,374980.07
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,10/31/2025,283127.22
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,10/31/2025,302727.12
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,10/31/2025,382218.57
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2025,257866.02
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,11/30/2025,276983.45
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2025,388581.72
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,11/30/2025,344989.39
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,11/30/2025,260151.41
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2025,404742.46
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,11/30/2025,378753.38
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,11/30/2025,284433.35
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,11/30/2025,305447.87
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,11/30/2025,387235.43
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2025,260131.87
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,12/31/2025,278350.34
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2025,390807.19
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,12/31/2025,346404.16
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,12/31/2025,262679.62
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2025,407642.27
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,12/31/2025,382836.19
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,12/31/2025,285754.48
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,12/31/2025,309406.01
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,12/31/2025,392564.42
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2026,261836.50
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,1/31/2026,279118.09
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2026,392578.38
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,1/31/2026,347623.45
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,1/31/2026,264827.70
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2026,409316.84
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,1/31/2026,384978.76
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,1/31/2026,286571.66
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,1/31/2026,312186.10
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,1/31/2026,395806.45
+83519,986,58103,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2026,262884.44
+82933,1320,56560,zip,MN,MN,Moorhead,"Fargo, ND-MN",Clay County,2/28/2026,280231.33
+83520,1490,58104,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2026,393626.11
+83515,2184,58078,zip,ND,ND,West Fargo,"Fargo, ND-MN",Cass County,2/28/2026,348915.26
+83518,3450,58102,zip,ND,ND,Fargo,"Fargo, ND-MN",Cass County,2/28/2026,266090.69
+83489,13464,58047,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2026,410159.36
+82925,13904,56549,zip,MN,MN,Hawley,"Fargo, ND-MN",Clay County,2/28/2026,386567.22
+82908,13962,56529,zip,MN,MN,Dilworth,"Fargo, ND-MN",Clay County,2/28/2026,287688.56
+83467,17971,58012,zip,ND,ND,Casselton,"Fargo, ND-MN",Cass County,2/28/2026,315288.80
+83492,20326,58051,zip,ND,ND,Horace,"Fargo, ND-MN",Cass County,2/28/2026,397851.12
