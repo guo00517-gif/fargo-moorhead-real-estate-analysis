@@ -1,0 +1,1 @@
+# fargo-moorhead-real-estate-analysis
