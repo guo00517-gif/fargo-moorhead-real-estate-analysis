@@ -30,7 +30,7 @@ investment relative to the broader market?
    construction replacement cost of $165-185/sqft in the area
 
 ## Dashboard
-[Tableau Public link]
+[View Interactive Dashboard](https://public.tableau.com/app/profile/jeffery.guo/viz/Fargo-MoorheadRealEstateInvestmentAnalysis/Fargo-MoorheadRealEstateInvestmentAnalysis)
 
 ## Data Notes
 - 7 zip codes included covering Moorhead MN, Fargo ND, West Fargo ND, 
